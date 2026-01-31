@@ -1,14 +1,14 @@
-# Innomatics Submission
+# Innomatics Hackathon Submission
 
-## 📊 Project Overview
+## Overview
 Analysis of food delivery data combining transactional orders, user information, and restaurant details from three different source formats (CSV, JSON, SQL).
 
-## 📁 Data Sources
+## Data Sources
 - **orders.csv** - Transactional order data with order details
 - **users.json** - User master data including membership tiers
 - **restaurants.sql** - Restaurant information with cuisine and ratings
 
-## 🚀 Key Analyses Performed
+##  Key Analyses Performed
 
 ### 1. **Business Metrics**
 - Revenue by restaurant rating ranges
@@ -25,7 +25,7 @@ Analysis of food delivery data combining transactional orders, user information,
 - Restaurant performance by rating
 - Seasonal revenue trends
 
-## 🔧 Technical Implementation
+## Technical Implementation
 
 ### Data Processing Steps
 ```python
